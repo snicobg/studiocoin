@@ -1,0 +1,2 @@
+# studiocoin
+StudioNet coin
